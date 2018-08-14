@@ -1,3 +1,4 @@
 Chuck Norris
-Will Smith
+O ator Will Smith
 Adam Sandler
+Robert De Niro
