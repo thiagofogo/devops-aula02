@@ -1,1 +1,3 @@
-# devops-aula02
+Chuck Norris
+Will Smith
+Adam Sandler
